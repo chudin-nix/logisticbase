@@ -1,0 +1,13 @@
+{
+  "trucks" : [
+    {
+      "id" : 1,
+      "loaded" : true
+    },
+    {
+      "id" : 2,
+      "loaded" : false
+    }
+  ]
+
+}
